@@ -18,4 +18,6 @@ I like doing sports including calasthenics, rock climbing, basketball, soccer an
 
 ### Contact me
 
-[g.kerbler@icloud.com](mailto:g.kerbler@icloud.com)
+[Email](mailto:g.kerbler@icloud.com)
+
+[LinkedIn](https://au.linkedin.com/in/georg-kerbler)

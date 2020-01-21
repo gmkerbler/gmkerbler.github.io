@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+---
+layout: post
+title: Inferential Statistics Project
+---
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 

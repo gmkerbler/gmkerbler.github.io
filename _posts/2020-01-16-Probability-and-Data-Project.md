@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inferential Statistics Project
+title: Probability and Data Project
 ---
 
 <html xmlns="http://www.w3.org/1999/xhtml">

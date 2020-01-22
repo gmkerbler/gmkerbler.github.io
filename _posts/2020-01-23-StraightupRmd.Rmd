@@ -1,10 +1,6 @@
 ---
-layout: post
-title: StraightupRmd
----
-
----
 title: "Exploring the BRFSS data"
+layout: post
 output: 
   html_document: 
     fig_height: 4

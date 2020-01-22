@@ -1,4 +1,9 @@
 ---
+layout: post
+title: StraightupRmd
+---
+
+---
 title: "Exploring the BRFSS data"
 output: 
   html_document: 

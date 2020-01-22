@@ -13,4 +13,8 @@ This project covers:
  * Inference via Hypothesis testing
  * Interpretation of Findings
 
+
+*The Project file starts here...*
+
+
 {% include stat_inf_project_GK.html %}

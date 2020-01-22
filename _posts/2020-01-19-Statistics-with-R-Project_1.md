@@ -10,4 +10,8 @@ It covers data analysis of a survey data set including a discussion on the data 
  * Summary Statistics and Plotting
  * Interpretation of Findings
 
+
+*The Project file starts here...*
+
+
 {% include intro_data_prob_project_GK.html %}

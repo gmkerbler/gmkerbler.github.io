@@ -1,5 +1,5 @@
 ---
-style: post
+layout: post
 title: Statistics with R: Project 1
 ---
 

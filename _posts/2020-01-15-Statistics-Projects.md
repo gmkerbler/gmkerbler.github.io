@@ -20,11 +20,11 @@ Even though I am uploading two project files in quick succession, I want to poin
  * watching lecture videos multiple times
  * doing every single exercise and covering all the reading material
  * only moving forward if I really understand the content
- * retaking quizzes to get higher scores
+ * doing iterations of quizzes until I get a high score
  * carrying out cohesive data analysis projects
  * putting time and effort into reviewing other peoples work and giving helpful feedback including coding examples that would improve their project
 
-Although it is not the quickest way of getting to my certificate, I believe this way of studying will be of the greatest value to me and my peers. 
+Although it is not the quickest way of getting to my certificates, I believe this way of studying will be of the greatest value to me and my peers. 
 
 That's it for now..
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Statistics with R - Inferential Statistics
+title: Project - Inferential Statistics
 ---
 
 This is my final project for the course "Inferential Statistics". 

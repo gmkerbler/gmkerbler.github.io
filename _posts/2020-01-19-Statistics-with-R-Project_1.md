@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Statistics with R - Probability and Data
+title: Project - Probability and Data
 ---
 
 This is my final project for the course "Introduction to Probability and Data". 
